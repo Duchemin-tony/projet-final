@@ -7,8 +7,8 @@
   	<title>Développement Personnel</title>
   	<meta name="description" content="">
   	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  	<link rel="stylesheet" href="../../public/css/style.css">
-  	<link rel="stylesheet" href="../../public/css/main.css">
+  	<link rel="stylesheet" href="public/css/style.css">
+  	<link rel="stylesheet" href="public/css/main.css">
 </head>
 	<body>	
 
@@ -40,7 +40,7 @@
 	    <div class="container clearfix">
 
 			<div id="logo">
-				<a href="index.php" title="Développement personnel"><img  src="../../public/img/logo.png" alt="logo" /></a>
+				<a href="index.php" title="Développement personnel"><img  src="public/img/logo.png" alt="logo" /></a>
 			</div>
 			<div id="reseaux">
 				<ul>

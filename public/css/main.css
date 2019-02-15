@@ -131,6 +131,9 @@ button a:hover {
 /*		top 	header
 /* ---------------------------------------------------- */
 /* line 75, ../sass/main.scss */
+#logo img {
+  width: 60px;
+}
 #logo {
   height: 80px;
   padding: 20px 0;
