@@ -9,6 +9,8 @@
   	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   	<link rel="stylesheet" href="public/css/style.css">
   	<link rel="stylesheet" href="public/css/main.css">
+  	 <link rel="stylesheet" href="public/js/nivo-slider/themes/default/default.css" type="text/css" media="screen" />
+ 	<link rel="stylesheet" href="public/js/nivo-slider/nivo-slider.css" type="text/css" media="screen" />
 </head>
 	<body>	
 

@@ -9,7 +9,7 @@ class Db
 
 	public $connexion;
 
-	function __construct($host=null,$name=null,$user=null,$pass=null)
+	function __construct($host=null, $name=null, $user=null, $pass=null)
 	{
 		if($host != null)
 		{
@@ -31,5 +31,12 @@ class Db
 			echo "Erreur : Impossible de se connecter à la base de données.";
 			die();
 		}
+	}
+
+	public function query($sql, $data=array())
+	{
+		$req = $this->connexion->prepare($sql);
+		$req->execute($data);
+		return $req->fetchAll(PDO::FETCH_OBJ);
 	}
 }

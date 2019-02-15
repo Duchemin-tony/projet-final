@@ -1,7 +1,21 @@
 <?php 
 include "INC/includes.php";
-include "INC/header.php" ?>
+include "INC/header.php"; 
+$sql = "SELECT * FROM sliders ";
+$sliders = $DB->query($sql);
+?>
 
+<div id="presentation">
+	<div  class="container presentation clearfix">		     
+		<div class="slider-wrapper theme-default">				
+				<div id="slider" class="nivoSlider">								
+					<?php foreach ($sliders as $slide): ?>
+						<a href=""><img src="<?php echo $slide->image; ?>" alt="<?php echo $slide->name; ?>" title="<?php echo $slide->name; ?>" /></a>
+					<?php endforeach ?>
+				</div>
+		</div>
+	</div> 
+</div> 
 <div id="page">
     <div id ="contenuPage" class="container clearfix">	
 			<div class="accueil">
@@ -96,7 +110,3 @@ include "INC/header.php" ?>
 </div> 
 
 <?php include "INC/footer.php" ?>
-
-</div> 
-</body>
-</html>

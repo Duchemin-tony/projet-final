@@ -52,6 +52,3 @@
 	</div>
 </div>
 <?php include "INC/footer.php" ?>
-</div> 
-</body>
-</html>
