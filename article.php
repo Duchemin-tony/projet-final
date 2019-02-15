@@ -39,7 +39,7 @@
 							<img src="" alt="avatar">
 						</div>	
 						<div class="message">	
-							<div class="author">Thomas <span> 15 -12-2012 à 16h31</span></div>
+							<div class="author">Thomas <span> 15 -12-2018 à 16h31</span></div>
 							<div class="texte">
 								In hendrerit quam vel erat luctus cursus. Proin congue aliquet purus sodales gravida. Fusce ligula elit, laoreet ac vestibulum in, lobortis id leo. Quisque nec massa lectus, lobortis laoreet ante. 
 							</div>
@@ -51,7 +51,7 @@
 							<img src="" alt="avatar">
 						</div>	
 						<div class="message">	
-							<div class="author">Nicolas<span> 15 -12-2012 à 16h31</span></div>
+							<div class="author">Nicolas<span> 15 -12-2018 à 16h31</span></div>
 							<div class="texte">
 								In hendrerit quam vel erat luctus cursus. Proin congue aliquet purus sodales gravida. Fusce ligula elit, laoreet ac vestibulum in, lobortis id leo. Quisque nec massa lectus, lobortis laoreet ante. 
 							</div>

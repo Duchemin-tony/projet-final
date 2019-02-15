@@ -12,7 +12,7 @@
 				<button><a href="article.html?id=1" title="lire la suite">lire la suite</a></button>
 			</div>
 			<div class="infos clearfix">
-				<p class="posted">Publié le 12 dec 2012 par user<span><a href="" title="commentaires">(0) commentaires</a></span></p>
+				<p class="posted">Publié le 12 dec 2018 par user<span><a href="" title="commentaires">(0) commentaires</a></span></p>
 				<p>Categorie: <a href="">Livres</a> </p>
 			</div>
 			</article>
